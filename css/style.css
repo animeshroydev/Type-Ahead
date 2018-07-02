@@ -1,0 +1,13 @@
+#the-basics {
+ font-size: 3em;   
+}
+#the-basics input {
+    margin-left: 250px;
+}
+.typeahead {
+        margin-left: 250px;
+
+}
+.tt-menu {
+    margin-left: 250px;
+}
